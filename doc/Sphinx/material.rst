@@ -108,6 +108,12 @@ Published
   `Enhancement of laser-driven ion acceleration in non-periodic nanostructured targets`,
   `J. Plasma Phys. 86, 905860101 (2020) <https://doi.org/10.1017/S0022377819000898>`_,
   `arXiv:1905.11131 <https://arxiv.org/abs/1905.11131>`_
+  
+ .. [Peng2020]
+
+    H. Peng, C. Riconda, M. Grech, C.-T. Zhou and S. Weber,
+    `Dynamical aspects of plasma gratings driven by a static ponderomotive potential`,
+    `Plasma Phys. Control. Fusion 62, 115015 (2020) <https://doi.org/10.1088/1361-6587/abb3aa>`_,
 
 .. [Peng2019]
 
